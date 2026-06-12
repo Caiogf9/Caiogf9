@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Caio Gabriel 👋
 
-<!--
-**Caiogf9/Caiogf9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+💼 Sales Professional at Volkswagen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 IT Technician (IFPE)
+
+📚 Future ADS Student
+
+📊 Learning Data Analytics and Power BI
+
+💰 Interested in Financial Markets and Investments
+
+🌎 Building skills for international career opportunities
+
+---
+
+## Current Goals
+
+- Complete CPA-20 Certification
+- Learn Power BI
+- Improve English Skills
+- Build Data Analytics Projects
+- Enter the Financial Market
+
+---
+
+## Certifications
+
+- Volkswagen Sales Certification
+- HubSpot Inbound Sales
+- SPIN Selling
+- Administrative Assistant (SENAI)
+- Administrative Assistant (IFRS)
+- Financial Assistant (IFRS)
+
+---
+
+## Connect with Me
+
+LinkedIn:
+linkedin.com/in/caio-gabriel-a8276925a
