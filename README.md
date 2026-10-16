@@ -6,11 +6,9 @@
 
 🎓 IT Technician (IFPE)
 
-📚 Future ADS Student
+📚 ADS Student
 
 📊 Learning Data Analytics and Power BI
-
-💰 Interested in Financial Markets and Investments
 
 🌎 Building skills for international career opportunities
 
@@ -18,7 +16,6 @@
 
 ## Current Goals
 
-- Complete CPA-20 Certification
 - Learn Power BI
 - Improve English Skills
 - Build Data Analytics Projects
